@@ -1,4 +1,4 @@
-![Welcome to My GitHub Profile](https://user-images.githubusercontent.com/goofyshwetank/header-image.png)
+![Welcome to My GitHub Profile](https://m.media-amazon.com/images/I/81IQ-f92H9L.jpg)
 
 # Hi there! 👋 I'm Shwetank Rai
 
@@ -43,8 +43,8 @@ Welcome to my GitHub profile! I'm a passionate tech enthusiast and a budding dev
 
 ## 🌐 Connect with Me
 
-- **Portfolio:** [yourportfolio.com](https://goofyshwetank.vercel.app)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/shwetank-rai-20a0881b9/)
+- **Portfolio:** [Shwetank's Space](https://goofyshwetank.vercel.app)
+- **LinkedIn:** [Shwetank Rai](https://linkedin.com/in/shwetank-rai-20a0881b9/)
 - **Email:** shwetankrai12@gmail.com
 
 ---
