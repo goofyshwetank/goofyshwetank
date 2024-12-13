@@ -1,4 +1,4 @@
-![Welcome to My GitHub Profile](https://m.media-amazon.com/images/I/81IQ-f92H9L.jpg)
+![Welcome to My GitHub Profile]
 
 # Hi there! 👋 I'm Shwetank Rai
 
